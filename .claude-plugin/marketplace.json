@@ -1,0 +1,29 @@
+{
+  "name": "formularios-hijos-custodia-y-alimentos",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Hijos: custodia, visitas, alimentos, filiación y adopción · España (159 formularios). Para los asuntos de los hijos: guarda y custodia, régimen de visitas y estancias, alimentos y su modificación, patria potestad y desacuerdos en su ejercicio, filiación y paternidad, adopción y acogimiento, sustracción internacional de menores y protección de menores. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-hijos-custodia-y-alimentos",
+      "source": "./",
+      "description": "Hijos: custodia, visitas, alimentos, filiación y adopción · España (159 formularios). Para los asuntos de los hijos: guarda y custodia, régimen de visitas y estancias, alimentos y su modificación, patria potestad y desacuerdos en su ejercicio, filiación y paternidad, adopción y acogimiento, sustracción internacional de menores y protección de menores. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "familia"
+      ]
+    }
+  ]
+}
